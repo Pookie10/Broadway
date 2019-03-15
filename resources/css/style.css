@@ -16,3 +16,18 @@ h1 {
 .navigation-top {
   font-size: 18px;
 }
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.background {
+  background-image: url("d:users/paul/cloudstation/projects/broadway/resources/images/the-flatiron-building.png");
+  color: white;
+}
