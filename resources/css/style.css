@@ -31,3 +31,14 @@ h3 {
   background-image: url("d:users/paul/cloudstation/projects/broadway/resources/images/the-flatiron-building.png");
   color: white;
 }
+
+p {
+  font-size: 14px;
+}
+
+.footer {
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
